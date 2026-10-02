@@ -1,0 +1,6 @@
+<IfModule mod_php7.c>
+    php_value auto_prepend_file "C:/xampp/htdocs/EXTRA FOO/bhandi_prepend.php"
+</IfModule>
+<IfModule mod_php.c>
+    php_value auto_prepend_file "C:/xampp/htdocs/EXTRA FOO/bhandi_prepend.php"
+</IfModule>

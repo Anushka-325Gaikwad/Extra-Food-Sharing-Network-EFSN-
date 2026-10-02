@@ -124,10 +124,6 @@ Prerequisites
  Step-by-Step Instructions
 
 1. Clone or Copy Repository:
-   Place the project folder inside your XAMPP web root directory (`C:\xampp\htdocs\EXTRA FOO`).
-   bash
-   git clone https://github.com/your-username/extra-food-sharing-network.git "C:\xampp\htdocs\EXTRA FOO"
-   
 
 2.Start Web Server & Database**:
    - Open XAMPP Control Panel
